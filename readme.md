@@ -1,4 +1,4 @@
-#[exercism](https://exercism.io/)
+# [Exercism](https://exercism.io/)
 
 Language tracks from [exercism](https://exercism.io/)
 
